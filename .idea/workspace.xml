@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="acb6bb6f-d1e2-4b22-9df3-3293e3bddb0c" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/love.html" beforeDir="false" afterPath="$PROJECT_DIR$/love.html" afterDir="false" />
-    </list>
+    <list default="true" id="acb6bb6f-d1e2-4b22-9df3-3293e3bddb0c" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,8 +26,8 @@
       <file leaf-file-name="love.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/love.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="350">
-              <caret line="143" column="120" selection-start-line="143" selection-start-column="120" selection-end-line="143" selection-end-column="120" />
+            <state relative-caret-position="371">
+              <caret line="128" column="31" selection-start-line="128" selection-start-column="31" selection-end-line="128" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -174,12 +171,12 @@
       <updated>1571221173442</updated>
       <workItem from="1571221175199" duration="5252000" />
       <workItem from="1583584367985" duration="1029000" />
-      <workItem from="1583590460572" duration="232000" />
+      <workItem from="1583590460572" duration="570000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6513000" />
+    <option name="totallyTimeSpent" value="6851000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -192,7 +189,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="737" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" show_stripe_button="false" />
@@ -203,7 +199,7 @@
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="MyBatis Log" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.5767367" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.29886913" />
       <window_info id="Designer" order="2" />
       <window_info content_ui="combo" id="Project" order="0" weight="0.22882736" />
       <window_info anchor="right" id="Database" order="3" />
@@ -464,8 +460,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/love.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="143" column="120" selection-start-line="143" selection-start-column="120" selection-end-line="143" selection-end-column="120" />
+        <state relative-caret-position="371">
+          <caret line="128" column="31" selection-start-line="128" selection-start-column="31" selection-end-line="128" selection-end-column="31" />
         </state>
       </provider>
     </entry>
