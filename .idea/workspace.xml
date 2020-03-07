@@ -26,8 +26,8 @@
       <file leaf-file-name="love.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/love.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="371">
-              <caret line="128" column="31" selection-start-line="128" selection-start-column="31" selection-end-line="128" selection-end-column="31" />
+            <state relative-caret-position="264">
+              <caret line="143" column="103" selection-start-line="143" selection-start-column="103" selection-end-line="143" selection-end-column="103" />
             </state>
           </provider>
         </entry>
@@ -171,12 +171,12 @@
       <updated>1571221173442</updated>
       <workItem from="1571221175199" duration="5252000" />
       <workItem from="1583584367985" duration="1029000" />
-      <workItem from="1583590460572" duration="570000" />
+      <workItem from="1583590460572" duration="866000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6851000" />
+    <option name="totallyTimeSpent" value="7147000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -460,8 +460,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/love.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="371">
-          <caret line="128" column="31" selection-start-line="128" selection-start-column="31" selection-end-line="128" selection-end-column="31" />
+        <state relative-caret-position="264">
+          <caret line="143" column="103" selection-start-line="143" selection-start-column="103" selection-end-line="143" selection-end-column="103" />
         </state>
       </provider>
     </entry>
